@@ -1,0 +1,13 @@
+langchain
+pandas
+sentence_transformers
+langchain_huggingface
+duckdb
+langchain_groq
+pymupdf
+arxiv
+wikipedia
+ipykernel
+langchain_community
+faiss-cpu
+streamlit
